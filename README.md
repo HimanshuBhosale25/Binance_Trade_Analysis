@@ -53,7 +53,7 @@ This project analyzes **historical trade data from Binance accounts** over a 90-
 
 1️⃣ Clone the repository:
 ``` sh
-git clone https://github.com/yourusername/Binance_Trade_Analysis.git
+git clone https://github.com/HimanshuBhosale25/Binance_Trade_Analysis.git
 ```
 
 2️⃣ Open the Jupyter Notebook (`primetrade_analysis.ipynb`) and run the analysis.\
